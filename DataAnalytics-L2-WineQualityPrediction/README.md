@@ -43,3 +43,6 @@ UCI Wine Quality dataset.
 - [ ] Post on LinkedIn tagging Oasis Infobyte with `#oasisinfobyte`
 - [ ] Complete peer evaluation on at least 2 other interns' posts
 - [ ] Submit via the Task Submission Form with GitHub repo link
+
+## Author
+- Nishant Tyagi — Data Analytics Intern, Oasis Infobyte
