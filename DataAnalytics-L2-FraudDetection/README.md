@@ -21,3 +21,6 @@ heavily imbalanced dataset, addressing class imbalance as a core challenge.
 The dataset (`creditcard.csv`, ~150 MB) is not included in this repo due to GitHub's
 file size limits. To run this notebook:
 1. Download
+
+## Author
+Nishant Tyagi — Data Analytics Intern, Oasis Infobyte
