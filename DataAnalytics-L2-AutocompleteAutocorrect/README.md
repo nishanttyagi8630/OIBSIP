@@ -58,3 +58,6 @@ Example:
 ```text
 Input: the
 Prediction: rabbit, queen, ...
+
+## Author
+Nishant Tyagi — Data Analytics Intern, Oasis Infobyte
