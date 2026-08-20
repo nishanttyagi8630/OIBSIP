@@ -133,5 +133,6 @@ DataAnalytics-L2-CustomerSegmentation/
 ├── Customer_Segmentation_RFM_KMeans.ipynb
 └── README.md
 
-## Author
-Nishant Tyagi — Data Analytics Intern, Oasis Infobyte
+## 👨‍💻 Author
+
+**Nishant Tyagi - Data Analytics Intern, Oasis Infobyte**
