@@ -135,4 +135,4 @@ DataAnalytics-L2-CustomerSegmentation/
 
 ## 👨‍💻 Author
 
-**Nishant Tyagi - Data Analytics Intern, Oasis Infobyte**
+Nishant Tyagi - Data Analytics Intern, Oasis Infobyte
